@@ -43,6 +43,6 @@
 [submodule "bundle/vim-flow"]
 	path = bundle/vim-flow
 	url = git://github.com/facebook/vim-flow.git
-[submodule "bundle/vim-swift"]
-	path = bundle/vim-swift
-	url = http://github.com/toyamarinyon/vim-swift.git
+[submodule "bundle/swift.vim"]
+	path = bundle/swift.vim
+	url = https://github.com/Keithbsmiley/swift.vim
