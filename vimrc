@@ -73,5 +73,7 @@ let g:syntastic_check_on_wq = 0
 
 let g:syntastic_go_checkers = ["go", "gofmt", "golint"]
 let g:syntastic_haskell_checkers = ["ghc_mod", "hlint"]
-let g:syntastic_javascript_checkers = ["jshint"]
+let g:syntastic_javascript_checkers = [""]
 let g:syntastic_ruby_checkers = ["mri"]
+
+set tabstop=2 shiftwidth=2 expandtab
