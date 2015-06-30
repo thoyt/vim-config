@@ -76,4 +76,12 @@ let g:syntastic_haskell_checkers = ["ghc_mod", "hlint"]
 let g:syntastic_javascript_checkers = [""]
 let g:syntastic_ruby_checkers = ["mri"]
 
+let g:go_highlight_functions = 1
+let g:go_highlight_methods = 1
+let g:go_highlight_structs = 1
+let g:go_highlight_operators = 1
+let g:go_highlight_build_constraints = 1
+
+let g:go_fmt_command = "goimports"
+
 set tabstop=2 shiftwidth=2 expandtab
