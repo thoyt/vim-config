@@ -25,3 +25,15 @@
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "vim-flake8"]
+	path = vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
+[submodule "bundle/vim-flake8"]
+	path = bundle/vim-flake8
+	url = https://github.com/nvie/vim-flake8
+[submodule "bundle/vim-coverage"]
+	path = bundle/vim-coverage
+	url = https://github.com/google/vim-coverage.git
+[submodule "bundle/vim-maktaba"]
+	path = bundle/vim-maktaba
+	url = https://github.com/google/vim-maktaba.git
